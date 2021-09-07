@@ -9,7 +9,7 @@ jumia-app --> app.jar + sample.db
 
  1-Install Docker on your machine. <br />
  2-Clone project. <br />
- 3-Change directory to cloned project and where Docker file exist. <br />
+ 3-Change directory to cloned project where Docker file exist. <br />
  4-Then run below commands in the directory where docker file exist. <br />
 
 ## Create Docker image from Dockerfile:
