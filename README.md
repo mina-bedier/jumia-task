@@ -7,7 +7,7 @@ but it was failed due to connections errors (time out) , so follow below steps t
 
 jumia-app --> app.jar + sample.db
 
- 1-Install Docker on your machine. <br />
+ 1-Having docker installed on your machine <br />
  2-Clone project. <br />
  3-Change directory to cloned project where Docker file exist. <br />
  4-Then run below commands in the directory where docker file exist. <br />
