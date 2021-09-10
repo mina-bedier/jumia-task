@@ -4,7 +4,7 @@
 
 Note : I tried many times to push image to my Dockerhub repo account to make it easy for you to pull image and run it directly , <br /> 
 but it was failed due to connections errors (time out) ,I will work on it till it work 
-and I will update README file once it's done , so for this moment follow below steps to run app with below steps <br />
+and I will update README file once it's done , so for this moment follow below steps to run app <br />
 
 jumia-app --> app.jar + sample.db
 
