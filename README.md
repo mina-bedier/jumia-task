@@ -2,7 +2,7 @@
 Jumia exercise is a application built using spring boot for backend and Thymeleaf as a template engine for front end . <br />
 ## Note : 
 After I have submitted excersise I have noticed that you mentioned in attached pdf create a single page application and framework allowed ,so <br />
-I developed another version using Angualr framework for frontend you can find spring boot and angular version through repository URL : 
+I developed another version using Angualr framework for frontend you can find spring boot and angular version through repository link : 
 [spring boot & angular excercise](https://github.com/mina-bedier/jumia-task-springboot-angular.git) . <br />
 
 current repository for spring boot and Thymelead version.
