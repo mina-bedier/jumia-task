@@ -1,8 +1,15 @@
 # jumia-task
+Jumia exercise is a application built using spring boot for backend and Thymeleaf as a template engine for front end . <br />
+## Note : 
+After I have submitted excersise I have noticed that you mentioned in attached pdf create a single page application and framework allowed ,so <br />
+I developed another version using Angualr framework for frontend you can find spring boot and angular version through repository URL : <br />
+[a link](https://github.com/mina-bedier/jumia-task-springboot-angular.git) . <br />
+
+current repository for spring boot and Thymelead version.
 
 ## Prerequisite:
 
-Note : I tried many times to push image to my Dockerhub repo account to make it easy for you to pull image and run it directly , <br /> 
+Notes : I tried many times to push image to my Dockerhub repo account to make it easy for you to pull image and run it directly , <br /> 
 but it was failed due to connections errors (time out) ,I will work on it till it work 
 and I will update README file once it's done , so for this moment follow below steps to run app <br />
 
